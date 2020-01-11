@@ -6,7 +6,7 @@ const app = express()
 
 app.use(
     cors({
-      origin: 'https://jack8191.github.io/stocktwits-search/'
+      origin: 'https://jack8191.github.io/'
     })
   )
 
